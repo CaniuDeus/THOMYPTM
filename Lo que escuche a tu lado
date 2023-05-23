@@ -2,7 +2,7 @@
   "songs": [
     {
       "bg": "#c9bea28f",
-      "artist": "sickick",
+      "artist": "BOB",
       "songName": "talking to the moon (bruno mars remix)",
       "files": {
         "song": "ID3",
@@ -11,10 +11,10 @@
     },
     {
       "bg": "#0896eba1",
-      "artist": "bless you",
+      "artist": "Crazy",
       "songName": "driving",
       "files": {
-        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/song.mp3",
+        "song": "ID3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg"
       }
     },
