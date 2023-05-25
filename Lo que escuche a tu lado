@@ -377,24 +377,6 @@
       "song": "https://raw.githubusercontent.com/CaniuDeus/THOMYPTM/main/y2mate.com%20-%2022%20%20YSY%20A%20%20DORMIR%20ES%20PARA%20GILES%20%20PROD%20CLUB%20HATS%20(1).mp3",
       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
       }
-    },
-    {
-      "bg": "#44c16fb5",
-      "artist": "tritonal",
-      "songName": "diamonds (feat. rose darling)",
-      "files": {
-      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/song.mp3",
-      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
-      }
-    },
-    {
-      "bg": "#e5e7e9",
-      "artist": "arizona zervas",
-      "songName": "no i in team",
-      "files": {
-      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
-      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
-      }
     }
   ]
 }
